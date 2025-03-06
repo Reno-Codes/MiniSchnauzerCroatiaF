@@ -30,7 +30,7 @@ export default function Header() {
                     {/* Logo */}
                     <Link to="/" className="flex items-center space-x-2">
                         <img
-                            src="/logo.png"
+                            src="/attached_assets/logo.png"
                             alt="Logo"
                             className="h-10 w-auto"
                         />
