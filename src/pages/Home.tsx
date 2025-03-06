@@ -28,7 +28,7 @@ export default function Home() {
                         playsInline
                     >
                         <source
-                            src="/src/attached_assets/videos/puppy-video.mp4"
+                            src="/attached_assets/videos/puppy-video.mp4"
                             type="video/mp4"
                         />
                     </video>
