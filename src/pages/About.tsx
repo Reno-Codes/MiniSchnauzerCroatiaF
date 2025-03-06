@@ -15,7 +15,7 @@ function loadImagesFromDirectory(directory: string) {
 
         return Object.keys(images)
             .filter((path) => path.includes(directory))
-            .map((path) => path.replace("/public/", ""));
+            .map((path) => path.replace("/src/", ""));
     } catch (error) {
         console.error(`Error loading ${directory} images:`, error);
         return [];

@@ -13,7 +13,7 @@ import {
 function loadImagesFromDirectory(directory: string) {
     try {
         const images = import.meta.glob(
-            "/attached_assets/**/*.{jpg,jpeg,png,gif}",
+            "/src/attached_assets/**/*.{jpg,jpeg,png,gif}",
             {
                 eager: true,
                 import: "default",
@@ -22,7 +22,7 @@ function loadImagesFromDirectory(directory: string) {
 
         return Object.keys(images)
             .filter((path) => path.includes(directory))
-            .map((path) => path.replace("/", ""));
+            .map((path) => path.replace("/src/", ""));
     } catch (error) {
         console.error(`Error loading ${directory} images:`, error);
         return [];
