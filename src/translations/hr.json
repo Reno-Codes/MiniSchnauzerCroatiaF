@@ -1,0 +1,129 @@
+{
+  "nav": {
+    "home": "Početna",
+    "about": "O Nama",
+    "breed": "O Pasmini",
+    "gallery": "Galerija",
+    "contact": "Kontakt",
+    "quick_links": "Brze Poveznice",
+    "follow_us": "Pratite Nas",
+    "language": "Jezik"
+  },
+  "home": {
+    "hero": {
+      "title": "Dobrodošli u Mini Schnauzer Croatia",
+      "subtitle": "Premium uzgajivač minijaturnih šnaucera",
+      "button": "Saznajte Više"
+    },
+    "welcome": {
+      "title": "Naša Predanost",
+      "description": "Posvećeni smo uzgoju zdravih i dobro temperamentnih minijaturnih šnaucera u Hrvatskoj. Naš fokus je na kvaliteti, zdravlju i temperamentu."
+    }
+  },
+  "about": {
+    "title": "O Našoj Uzgajivačnici",
+    "description": "Posvećeni smo uzgoju zdravih i dobro temperamentnih minijaturnih šnaucera u Hrvatskoj.",
+    "mission": "Naša misija je uzgajati izuzetne minijaturne šnaucere održavajući najviše standarde zdravlja i brige.",
+    "experience": "S godinama iskustva u uzgoju, osiguravamo da svako štene dobije najbolji mogući početak u životu.",
+    "values": "Naše Vrijednosti",
+    "value_points": {
+      "health_tested": "Zdravstveno testirani psi za uzgoj",
+      "socialized": "Socijalizirana štenad od rane dobi",
+      "clean_facility": "Čist i moderan objekt",
+      "lifetime_support": "Doživotna podrška za naše pse"
+    },
+    "facility": {
+      "title": "Naš Objekt",
+      "description": "Moderan, čist i dizajniran za optimalnu brigu o našim psima."
+    },
+    "dogs": {
+      "title": "Naši Psi",
+      "description": "Šampionske krvne linije i odličan temperament."
+    }
+  },
+  "breed": {
+    "title": "Minijaturni Šnaucer",
+    "description": "Saznajte više o ovoj inteligentnoj i prijateljskoj pasmini",
+    "characteristics": {
+      "temperament": {
+        "title": "Temperament",
+        "details": {
+          "friendly": "Prijateljska i otvorena osobnost",
+          "intelligent": "Vrlo inteligentan i podatan za treniranje",
+          "alert": "Oprezan i živahan čuvar",
+          "good_with_children": "Odličan s djecom i obiteljima",
+          "excellent_watchdog": "Izvrsne čuvarske sposobnosti"
+        }
+      },
+      "physical": {
+        "title": "Fizičke Karakteristike",
+        "details": {
+          "height": "Visina: 30-35 cm u ramenu",
+          "weight": "Težina: 5-8 kg",
+          "build": "Kompaktna i kvadratična građa",
+          "distinctive_features": "Karakteristična brada i obrve",
+          "coat": "Dvostruka dlaka s žičanim vanjskim slojem"
+        }
+      },
+      "care": {
+        "title": "Potrebna Njega",
+        "details": {
+          "grooming": "Potrebno redovito profesionalno uređivanje",
+          "exercise": "Potrebna umjerena dnevna aktivnost",
+          "vet_checkups": "Redoviti veterinarski pregledi",
+          "dental": "Nužna redovita dentalna njega",
+          "socialization": "Važna rana socijalizacija"
+        }
+      },
+      "health": {
+        "title": "Zdravstvene Informacije",
+        "details": {
+          "generally_healthy": "Općenito zdrava pasmina",
+          "eye_examinations": "Preporučeni redoviti pregledi očiju",
+          "hip_screening": "Važan screening kukova",
+          "dental_care": "Nužna dentalna njega",
+          "life_expectancy": "Očekivani životni vijek: 12-15 godina"
+        }
+      }
+    },
+    "ideal_for": "Idealan Za",
+    "ideal_points": {
+      "families": "Obitelji s djecom",
+      "apartments": "Život u stanu",
+      "first_time": "Prve vlasnike pasa",
+      "active": "Aktivne pojedince"
+    }
+  },
+  "gallery": {
+    "title": "Naši Psi",
+    "puppies": "Štenci",
+    "adults": "Odrasli Psi",
+    "facility": "Naš Objekt"
+  },
+  "contact": {
+    "title": "Kontaktirajte Nas",
+    "subtitle": "Javite Nam Se",
+    "form": {
+      "name": "Vaše Ime",
+      "email": "Email",
+      "phone": "Broj Telefona",
+      "message": "Poruka",
+      "submit": "Pošalji Poruku"
+    },
+    "info": {
+      "name": "Ime",
+      "location": "Lokacija",
+      "email": "Email",
+      "phone": "Telefon",
+      "contact_info": "Kontakt Informacije"
+    },
+    "success": "Poruka je uspješno poslana!",
+    "error": "Došlo je do greške pri slanju poruke. Molimo pokušajte ponovno."
+  },
+  "footer": {
+    "quick_links": "Brze Poveznice",
+    "follow_us": "Pratite Nas",
+    "contact_info": "Kontakt Informacije",
+    "rights": "Sva Prava Pridržana"
+  }
+}

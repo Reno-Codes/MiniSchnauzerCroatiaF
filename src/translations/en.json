@@ -1,0 +1,129 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About Us",
+    "breed": "Breed Info",
+    "gallery": "Gallery",
+    "contact": "Contact",
+    "quick_links": "Quick Links",
+    "follow_us": "Follow Us",
+    "language": "Language"
+  },
+  "home": {
+    "hero": {
+      "title": "Welcome to Mini Schnauzer Croatia",
+      "subtitle": "Premium Miniature Schnauzer Breeder",
+      "button": "Learn More"
+    },
+    "welcome": {
+      "title": "Our Commitment",
+      "description": "We are dedicated to breeding healthy, well-tempered Miniature Schnauzers in Croatia. Our focus is on quality, health, and temperament."
+    }
+  },
+  "about": {
+    "title": "About Our Kennel",
+    "description": "We are dedicated to breeding healthy and well-tempered Miniature Schnauzers in Croatia.",
+    "mission": "Our mission is to breed exceptional Miniature Schnauzers while maintaining the highest standards of health and care.",
+    "experience": "With years of experience in breeding, we ensure each puppy receives the best possible start in life.",
+    "values": "Our Values",
+    "value_points": {
+      "health_tested": "Health tested breeding dogs",
+      "socialized": "Socialized puppies from early age",
+      "clean_facility": "Clean and modern facility",
+      "lifetime_support": "Lifetime support for our dogs"
+    },
+    "facility": {
+      "title": "Our Facility",
+      "description": "Modern, clean, and designed for optimal care of our dogs."
+    },
+    "dogs": {
+      "title": "Our Dogs",
+      "description": "Champion bloodlines and excellent temperaments."
+    }
+  },
+  "breed": {
+    "title": "The Miniature Schnauzer",
+    "description": "Learn about this intelligent and friendly breed",
+    "characteristics": {
+      "temperament": {
+        "title": "Temperament",
+        "details": {
+          "friendly": "Friendly and outgoing personality",
+          "intelligent": "Highly intelligent and trainable",
+          "alert": "Alert and spirited watchdog",
+          "good_with_children": "Great with children and families",
+          "excellent_watchdog": "Excellent watchdog capabilities"
+        }
+      },
+      "physical": {
+        "title": "Physical Characteristics",
+        "details": {
+          "height": "Height: 12-14 inches at shoulder",
+          "weight": "Weight: 11-18 pounds",
+          "build": "Compact and square-built body",
+          "distinctive_features": "Distinctive beard and eyebrows",
+          "coat": "Double coat with wiry outer layer"
+        }
+      },
+      "care": {
+        "title": "Care Requirements",
+        "details": {
+          "grooming": "Regular professional grooming needed",
+          "exercise": "Moderate daily exercise required",
+          "vet_checkups": "Regular veterinary check-ups",
+          "dental": "Regular dental care essential",
+          "socialization": "Early socialization important"
+        }
+      },
+      "health": {
+        "title": "Health Information",
+        "details": {
+          "generally_healthy": "Generally healthy breed",
+          "eye_examinations": "Regular eye examinations recommended",
+          "hip_screening": "Hip dysplasia screening important",
+          "dental_care": "Dental care is essential",
+          "life_expectancy": "Life expectancy: 12-15 years"
+        }
+      }
+    },
+    "ideal_for": "Ideal For",
+    "ideal_points": {
+      "families": "Families with children",
+      "apartments": "Apartment living",
+      "first_time": "First-time dog owners",
+      "active": "Active individuals"
+    }
+  },
+  "gallery": {
+    "title": "Our Dogs",
+    "puppies": "Puppies",
+    "adults": "Adult Dogs",
+    "facility": "Our Facility"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "Get in Touch",
+    "form": {
+      "name": "Your Name",
+      "email": "Email",
+      "phone": "Phone Number",
+      "message": "Message",
+      "submit": "Send Message"
+    },
+    "info": {
+      "name": "Name",
+      "location": "Location",
+      "email": "Email",
+      "phone": "Phone",
+      "contact_info": "Contact Info"
+    },
+    "success": "Message sent successfully!",
+    "error": "There was an error sending your message. Please try again."
+  },
+  "footer": {
+    "quick_links": "Quick Links",
+    "follow_us": "Follow Us",
+    "contact_info": "Contact Information",
+    "rights": "All Rights Reserved"
+  }
+}
